@@ -1,7 +1,7 @@
 <template>
 <a href="/">Back</a>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Detalji commita</h1>
     {{sha}}
     <router-view />
   </div>
