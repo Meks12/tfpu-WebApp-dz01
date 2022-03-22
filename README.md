@@ -1,3 +1,3 @@
 # dz01
 
-Nikola Merlić, Računarsto
+NM, Računarstvo
