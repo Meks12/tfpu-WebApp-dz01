@@ -1,3 +1,3 @@
 # dz01
 
-NM, Računarstvo
+Nikola Merlić, Računarstvo, 0303090418
